@@ -41,6 +41,7 @@ h1{
 }
 
 h2{
+    text-align: justify;
     color: var(--cor4);
     font-family: var(--idroid);
 }
